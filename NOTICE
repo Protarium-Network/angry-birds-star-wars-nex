@@ -1,0 +1,11 @@
+Original work: Copyright (C) Joshua Peisach (ItzSwirlz)
+https://github.com/ItzSwirlz/angry-birds-star-wars (GPL-3.0)
+
+Modifications: Protarium Network.
+
+Built on the Pretendo Network NEX stack:
+  - github.com/PretendoNetwork/nex-go
+  - github.com/PretendoNetwork/nex-protocols-go
+  - github.com/PretendoNetwork/nex-protocols-common-go
+  - github.com/PretendoNetwork/plogger-go
+No proprietary Nintendo or Ubisoft/Rovio code or assets are included.
